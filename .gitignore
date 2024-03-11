@@ -1,0 +1,15 @@
+*.pp.mligo
+*.pp.ligo
+.ligo-work
+node_modules
+__build__
+.DS_Store
+*.code-workspace
+.vscode
+.idea
+.venv
+**/__pycache__
+**/*.pyc
+**/*.egg-info
+single_asset/lorentz/morley-ledgers/
+**/bisect*.coverage
